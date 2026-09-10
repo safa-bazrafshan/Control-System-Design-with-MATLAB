@@ -82,7 +82,7 @@ The MATLAB examples are presented and explained in the accompanying YouTube play
 
 **Control System Design with MATLAB**
 
-[[YouTube Playlist](https://youtube.com/playlist?list=PLWG3YfeSGG3w&si=gz1S-AelSSx54IMI)](#)
+[[YouTube Playlist](https://youtube.com/playlist?list=PLWG3YfeSGG3w&si=gz1S-AelSSx54IMI)]
 
 ## 🛠️ Requirements
 
